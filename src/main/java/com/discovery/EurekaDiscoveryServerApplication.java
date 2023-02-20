@@ -11,7 +11,7 @@ public class EurekaDiscoveryServerApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(EurekaDiscoveryServerApplication.class, args);
 		//adding a sysout
-		System.out.println("hello, welcome to the discovery server");
+		System.out.println("hello, welcome to the Eureka discovery server");
 	}
 
 }
